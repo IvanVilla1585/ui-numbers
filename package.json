@@ -1,0 +1,22 @@
+{
+  "name": "ui-numbers",
+  "version": "1.0.0",
+  "description": "test react, webpack and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanVilla1585/ui-numbers.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ivan Dario Villa Ramirez <trezeguet55@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanVilla1585/ui-numbers/issues"
+  },
+  "homepage": "https://github.com/IvanVilla1585/ui-numbers#readme"
+}
